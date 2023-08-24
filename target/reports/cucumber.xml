@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.126" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="feature to search a product from flipcart and add the product to cart" name="Flipkart search a product and add to cart" time="0.008">
+<system-out><![CDATA[
+Given search a product from search bar......................................passed
+And click on the product....................................................passed
+And Validate mouse hower on image is displaying maximised image.............passed
+When validate the price on details page and search page.....................passed
+And Add the product to the cart.............................................passed
+Then validate the price on cart with previous price.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
